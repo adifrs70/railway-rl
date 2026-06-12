@@ -235,7 +235,7 @@ Evaluare finală pe **1000 de scenarii** de dificultate 2, seed-uri 100000–100
 
 ## Contact
 
-- **Mihai-Adrian Costică** — `mihai.costica@stud.etti.upb.ro`
+- **Mihai-Adrian Costică** — `adriancostica00@gmail.com`
 - Coordonatori: Prof. dr. ing. Dragoș Burileanu, Șl. dr. ing. Șerban Mihalache
 - Universitatea Națională de Știință și Tehnologie POLITEHNICA București
 - Facultatea de Electronică, Telecomunicații și Tehnologia Informației
