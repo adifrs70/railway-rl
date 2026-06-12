@@ -43,7 +43,7 @@ project_diseratie/
 - matplotlib
 - numpy
 
-```
+
 ### 1. Antrenare DQN
 
 ```bash
