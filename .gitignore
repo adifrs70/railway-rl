@@ -1,0 +1,16 @@
+# Modele antrenate (fisiere mari)
+simulation/models/
+
+# Loguri
+simulation/logs/
+simulation/plots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.zip
+
+# Dataset
+simulation/dataset/

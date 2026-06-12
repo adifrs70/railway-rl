@@ -1,0 +1,26 @@
+{
+  "parcurs_realizabil": {
+    "count": 355,
+    "procent": 71.0
+  },
+  "asteapta_corect": {
+    "count": 40,
+    "procent": 8.0
+  },
+  "asteapta_gresit": {
+    "count": 40,
+    "procent": 8.0
+  },
+  "actiune_nepotrivita": {
+    "count": 22,
+    "procent": 4.4
+  },
+  "ruta_imposibila": {
+    "count": 43,
+    "procent": 8.6
+  },
+  "mean_reward": 5.24,
+  "std_reward": 8.079,
+  "n_episodes": 500,
+  "difficulty_level": 1
+}
