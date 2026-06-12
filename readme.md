@@ -59,19 +59,6 @@ python -m venv .venv
 # Linux/Mac:
 source .venv/bin/activate
 ```
-
-3. Instalează dependențele:
-```bash
-pip install stable-baselines3 gymnasium networkx matplotlib numpy
-```
-
-## Rulare
-
-Toate comenzile se rulează din folderul `simulation/`:
-```bash
-cd simulation
-```
-
 ### 1. Antrenare DQN
 
 ```bash
