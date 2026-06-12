@@ -43,21 +43,6 @@ project_diseratie/
 - matplotlib
 - numpy
 
-## Instalare
-
-1. Clonează repository-ul:
-```bash
-git clone https://github.com/USERNAME/railway-rl-theia.git
-cd railway-rl-theia
-```
-
-2. Creează și activează un mediu virtual (recomandat):
-```bash
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# Linux/Mac:
-source .venv/bin/activate
 ```
 ### 1. Antrenare DQN
 
